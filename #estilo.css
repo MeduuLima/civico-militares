@@ -5,7 +5,8 @@
     color: rgb(70, 206, 127);
 }
  .cabecalho{
-    display:flex;
+    display:center
+   ;
     font-size: 35px;
  }
 
