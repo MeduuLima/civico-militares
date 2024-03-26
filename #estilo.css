@@ -1,10 +1,10 @@
-.mari{
-    background-color: yellowgreen;
+body{
+    background: yellowgreen;
     width: 100vw;
     height: 100vh;
     color: rgb(70, 206, 127);
 }
- .cabecalho{
+ .logo{
     display:flex;
     font-size: 35px;
  }
