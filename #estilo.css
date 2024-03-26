@@ -1,13 +1,14 @@
 body{
     background-image:url("/home/escola/Downloads/fundo.jpeg");
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center center;
     background-size: cover;
     background-attachment: fixed;
 }
  .logo{
-    display:flex;
-    font-size: 35px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
  }
 
  .lista{
