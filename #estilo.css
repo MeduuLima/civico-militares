@@ -4,3 +4,24 @@
     height: 100vh;
     color: rgb(0, 0, 0);
 }
+ .cabecalho{
+    display:flex;
+    font-size: 35px;
+ }
+
+ .lista{
+    display:flex
+ }
+
+ .lista-item{
+    margin: left 70px;
+ }
+
+.teste1{
+    display:flex;
+    justify-content: center;
+}
+
+.espacamento{
+   margin-left: 100px;
+}
