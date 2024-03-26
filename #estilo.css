@@ -1,5 +1,5 @@
 body{
-    background-image:url("/home/escola/Downloads/fundo.jpeg");
+    background-image:url("fundo.jpeg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
