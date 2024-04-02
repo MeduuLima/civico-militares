@@ -10,20 +10,126 @@ body{
     margin-left: auto;
     margin-right: auto;
  }
+ 
 
  .ola{
     display:flex
  }
 
- .lista-item{
-    margin: left 70px;
- }
+ .enem {
+   color: #00fbff;
+   text-align: center;
+   font-size: 50px;
 
-.teste1{
-    display:flex;
-    justify-content: center;
 }
 
-.espacamento{
-   margin-left: 100px;
+.note {
+   color: #00fbff;
+   text-align: center;
+   font-size: 50px;
 }
+
+.img1 {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.oque {
+   color: #89e8f5;
+   text-align: center;
+   font-size: 50px;
+
+}
+
+.p1 {
+   color: #000000;
+   font-size: 35px;
+   left: auto;
+   width: auto;
+}
+
+.p2 {
+   color: #000000;
+   text-align: center;
+   font-size: 50px;
+}
+
+.p3 {
+   color: #000000;
+   font-size: 50px;
+   left: auto;
+   width: auto;
+}
+
+.left {
+   float: left;
+   font-size: 30px;
+   display: inline-block;
+   width: 45%;
+   margin: 0 2.5%
+}
+
+.right {
+   float: right;
+   font-size: 30px;
+   display: inline-block;
+   width: 45%;
+   margin: 0 2.5%
+}
+
+.left1 {
+   float: left;
+   font-size: 50px;
+   color: #89e8f5;
+}
+
+.right1 {
+   float: right;
+   font-size: 50px;
+   color: #89e8f5;
+}
+
+
+
+.perguntas {
+   display: flex;
+}
+
+.respostas {
+   display: block;
+}
+
+.container {
+   display: flex
+}
+
+.t5 {
+
+   font-size: 30px;
+
+
+   margin-left: 30%;
+   margin-right: 30%;
+}
+
+.right2 {
+   text-align: right;
+}
+
+.roda {
+   background-color: #636161;
+   color: #c25c5c;
+   text-align: center;
+   padding: 10px 0;
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+}
+
+.b {
+   flex: 1;
+   padding: 20px;
+}
+
