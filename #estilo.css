@@ -5,6 +5,14 @@ body{
     background-size: cover;
     background-attachment: fixed;
 }
+element.style {
+   font-size: 0px;
+   left: -5.68434e-14px;
+   top: -47.7448px;
+   width: 918px;
+   height: 612.49px;
+   position: relative;
+}
  .logo{
     display:block;
     margin-left: auto;
