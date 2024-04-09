@@ -1,10 +1,8 @@
 body{
 height:100vh
-    background-image:url("fundo.jpeg");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    background-attachment: fixed;
+width:100w
+    background: rgb(2,0,36)
+background:linear-gradient(351deg, rgb(2,0,36,1)0%,rgba168,31,13,0.36738445378151263) 93%);
 }
 
 :root {
