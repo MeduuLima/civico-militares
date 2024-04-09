@@ -1,4 +1,5 @@
 body{
+height:100vh
     background-image:url("fundo.jpeg");
     background-repeat: no-repeat;
     background-position: center center;
