@@ -5,6 +5,16 @@ body{
     background-size: cover;
     background-attachment: fixed;
 }
+
+:root {
+   --cor-de-fundo:#1E1E1E;
+   --verde: #6FFF57;
+   --vermelho:#FF000F;
+   --branco: #FFFFFF;
+   --botao-ativo: #3A375E;
+   --botao-inativo: rgba(58, 55, 94, 0.5);
+   --texto-fundo: rgba(58, 55, 94, 0.3);
+}
 element.style {
    font-size: 0px;
    left: -5.68434e-14px;
